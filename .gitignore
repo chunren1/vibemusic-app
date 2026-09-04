@@ -9,3 +9,5 @@ web-build/
 .env.local
 npm-debug.*
 *.log
+android/
+ios/
